@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking for job
 - 📫 contact me on mail @ ajay1997.official@gmail.com
-- Projects online 
-- # https://cryptic-oasis-25853.herokuapp.com/
-- #https://afternoon-reaches-31830.herokuapp.com           
+        
 
 <!---
 AjayChauhan1997/AjayChauhan1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
